@@ -1,15 +1,15 @@
 ## Workflows
 
-1. Update config.yaml
-2. Update secrets.yaml [Optional]
-3. Update params.yaml
-4. Update the entity
-5. Update the configuration manager in src config
-6. Update the components
-7. Update the pipeline 
-8. Update the main.py
-9. Update the dvc.yaml
-10. app.py
+Customer_Churn_Prediction/
+│── data/                 # Store datasets
+│── notebooks/            # Jupyter notebooks for EDA
+│── models/               # Trained ML models
+│── src/                  # Python scripts
+│── app/                  # Deployment files (Flask API / Streamlit)
+│── requirements.txt      # Required libraries
+│── README.md             # Project documentation
+│── main.py               # Main script
+
 
 # How to run?
 ### STEPS:
